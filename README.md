@@ -1,4 +1,4 @@
-# mapreduce
+# MapReduce
 Map Reduce Coding Problem:
  
 The problem mentioned below revolves around movies dataset. The dataset contains 4 files which are follows, 
